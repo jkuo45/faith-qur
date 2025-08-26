@@ -60,7 +60,7 @@ def _(mo):
 @app.cell
 def _(mo):
     mo.image(
-        """img/ch46_candles_on_the_floor.jpg""",
+        """https://raw.githubusercontent.com/jkuo45/faith-qur/main/img/ch46_candles_on_the_floor.jpg""",
         caption="Diwali: Festival of Lights, credit https://unsplash.com/@artsy_lens21",
         alt="Diwali: Festival of Lights, credit https://unsplash.com/@artsy_lens21",
         rounded=True,
@@ -75,7 +75,7 @@ def _(mo):
     5. The holy 🕊️ teachings of Jesus was to the common people 👱‍♂️👱🏻‍♂️👱🏼‍♂️👱🏽‍♂️👱🏾‍♂️👱🏿‍♂️, to redeem them from under the great pressure of the hands of the unjust. That the rulers of the rich[ish] would not oppress the poor[ish]. Also the lion and the lamb may lay down together and neither would be be harmed when morning came 🦁🐑🌞.
     6. These teachings were not accepted by the rulers. Neither by the rich[ish]; because they loved the principles of the 🔟 commandments.
     7. Through the 🔟 commandments the rulers and the rich[ish] live, while the poor[ish] suffer and die 死.
-    8. The lamb 🐑🐑🐑 is the poor[ish] people, and the lion 🦁, the rulers annd the rich[ish]. And through Love, Truth, Peace, Freedom, and Justice all men are one and equal to seek their own destiny; and to worship under their own vine 🍇 and fig tree 🪾. After the principles of the holy and divine laws of their forefathers ♾️.
+    8. The lamb 🐑🐑🐑 is the poor[ish] people, and the lion 🦁, the rulers and the rich[ish]. And through Love, Truth, Peace, Freedom, and Justice all men are one and equal to seek their own destiny; and to worship under their own vine 🍇 and fig tree 🪾. After the principles of the holy and divine laws of their forefathers ♾️.
     9. All nations of the earth in these modern days are seeking peace, but there is but one true and divine way that peace may be obtained in these days, and it is through:
 
                ❤️ Love
@@ -103,9 +103,9 @@ def _(mo):
 @app.cell
 def _(mo):
     mo.image(
-        "img/ch46_notes.jpeg",
+        "https://raw.githubusercontent.com/jkuo45/faith-qur/main/img/ch46_notes.jpeg",
         width=700,
-        alt="notes for Chapter 46: The Beginning of Christrianity",
+        alt="notes for Chapter 46: The Beginning of Christianity",
         rounded=True,
     )
     return
@@ -114,6 +114,7 @@ def _(mo):
 @app.cell
 def _():
     import marimo as mo
+
     return (mo,)
 
 
