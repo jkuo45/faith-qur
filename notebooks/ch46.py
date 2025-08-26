@@ -8,8 +8,6 @@ app = marimo.App(width="medium")
 def _(mo):
     mo.md(
         r"""
-    # Chapter 46: The Beginning of Christianity
-
     1. The foundation of Christianity begun in Rome 🇮🇹⭐️🏛🍝. The Roman nations founded the first Church, of whom crucified Jesus of Nazareth for seeking to redeeem his people from under the Roman yoke and law.
     2. Jesus himself was of the true blood of the ancient Canaanites and Moabites and the inhabitants of Africa.
     """
