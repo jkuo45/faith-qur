@@ -8,7 +8,7 @@ app = marimo.App(width="medium")
 def _(mo):
     mo.md(
         r"""
-    1. The foundation of Christianity begun in Rome 🇮🇹⭐️🏛🍝. The Roman nations founded the first Church, of whom crucified Jesus of Nazareth for seeking to redeeem his people from under the Roman yoke and law.
+    1. The foundation of Christianity begun in Rome 🇮🇹⭐️🏛🍝. The Roman nations founded the first Church, of whom crucified Jesus of Nazareth for seeking to redeem his people from under the Roman yoke and law.
     2. Jesus himself was of the true blood of the ancient Canaanites and Moabites and the inhabitants of Africa.
     """
     )
@@ -19,7 +19,7 @@ def _(mo):
 def _(mo):
     mo.md(
         r"""
-    2. (cont): ### Biblical Canaanites
+    2. (cont): Biblical Canaanites
 
         https://www.dailymail.co.uk/sciencetech/article-8365839/Biblical-Canaanites-gradually-moved-Near-East-Southern-Levant.html
     """
@@ -77,13 +77,13 @@ def _(mo):
     9. All nations of the earth in these modern days are seeking peace, but there is but one true and divine way that peace may be obtained in these days, and it is through:
 
                ❤️ Love
-       
+
                💙 Truth
-           
+
                💜 Peace
-           
+
                💚 Freedom
-           
+
                🤍 Justice
 
        Taught universally to all nations, in all lands.
