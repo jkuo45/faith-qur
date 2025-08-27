@@ -1,6 +1,5 @@
-from streamlit_searchbox import st_searchbox
-
-import streamlit as st
+import streamlit as st  # noqa
+# from streamlit_searchbox import st_searchbox
 
 st.title("Chat with Text")
 
@@ -25,11 +24,10 @@ chapters = [
     "Chapter 46: The Beginning of Christianity",
 ]
 
-selected_chapter = st_searchbox(
+selected_chapter = st.selectbox(
     label="Select chapters",
     placeholder="Search...",
-    default_options=chapters,
-    search_function=[],
+    options=chapters,
 )
 
 
