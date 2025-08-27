@@ -34,6 +34,7 @@ def _(mo):
         rounded=True,
         caption="Biblical Canaanites, dailymail.co.uk",
         alt="Map of Turkey, Iran, Iraq, Azerbaijan, Lebanon, Jordan, Israel, Egypt. photo by Chris Waybe, MailOnline, dailymail.co.uk",
+        width=550,
     )
     return
 
@@ -62,6 +63,7 @@ def _(mo):
         caption="Diwali: Festival of Lights, credit https://unsplash.com/@artsy_lens21",
         alt="Diwali: Festival of Lights, credit https://unsplash.com/@artsy_lens21",
         rounded=True,
+        width=550,
     )
     return
 
@@ -102,7 +104,7 @@ def _(mo):
 def _(mo):
     mo.image(
         "https://raw.githubusercontent.com/jkuo45/faith-qur/main/img/ch46_notes.jpeg",
-        width=700,
+        width=550,
         alt="notes for Chapter 46: The Beginning of Christianity",
         rounded=True,
     )
@@ -112,7 +114,6 @@ def _(mo):
 @app.cell
 def _():
     import marimo as mo
-
     return (mo,)
 
 
